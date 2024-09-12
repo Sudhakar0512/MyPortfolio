@@ -43,8 +43,8 @@ $(document).ready(function () {
 
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState === "visible") {
-    document.title = "Portfolio | Arsh Bhatia";
-    $("#favicon").attr("href", "assests/images/Arsh Bhatia.png");
+    document.title = "Portfolio | Sudhakars0512";
+    $("#favicon").attr("href", "assests/sudhakar_round.png");
   } else {
     document.title = "Come Back To Portfolio";
   }
